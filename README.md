@@ -11,13 +11,13 @@ This is a Java-based simulator for the Enigma machine, a historical encryption d
 2. Compile the Java source file `EnigmaMachine.java`.
 
     ```bash
-    javac EnigmaMachine.java
+    javac Enigma.java
     ```
 
 3. Run the compiled Java program.
 
     ```bash
-    java EnigmaMachine
+    java Enigma
     ```
 
 4. Follow the prompts in the console:
