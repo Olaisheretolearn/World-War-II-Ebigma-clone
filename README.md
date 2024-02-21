@@ -20,7 +20,7 @@ This is a Java-based simulator for the Enigma machine, a historical encryption d
     java Enigma
     ```
 
-4. Follow the prompts in the console:
+4. Follow the prompts in the console/terminal:
    
     - Press `1` to encode a message.
     - Press `2` to decode an already encoded message.
