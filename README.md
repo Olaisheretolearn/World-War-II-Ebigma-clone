@@ -34,5 +34,5 @@ The simulator uses a fixed rotor configuration by default. However, you can modi
 
 ## Error Fix
 
-If you encounter problems/issues with decoding messages, such as incorrect outputs, it may be due to the handling of rotor positions. When decoding a message, the rotor positions should be reset to their initial state before decryption. To fix this issue, the rotor positions are reset before processing the ciphertext.
+If you encounter problems/issues with decoding messages, it may be due to the handling of rotor positions. When decoding a message, the rotor positions should be reset to their initial state before decryption. To fix this issue, the rotor positions are reset before processing the ciphertext.
 
